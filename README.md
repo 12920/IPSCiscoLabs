@@ -9,13 +9,15 @@ Pre-requisites
 •	Putty
 •	Rlogin Client
 3. Added required images in EVE-ng
-4. Windows Client Side  https://www.eve-ng.net/index.php/download/
+4. Windows Client Side using https://www.eve-ng.net/index.php/download/
+5. Also, you need to download UltraVNC Viewer to use GUI mode.
 Steps:
 1. Enter the provided credentials and sign in. 
  
 2. After login, you will be required to first create a folder for your lab. 
  
 Note: Make one case study for one chapter. Labs can be more than one in each lab however the basics of case study should be same. 
+
 3. To create a folder, write your lab name in the space given by Add Folder. 
  
 4. After making folder, open that particular folder. 
