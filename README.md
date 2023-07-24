@@ -11,9 +11,11 @@ Pre-requisites
 3. Added required images in EVE-ng
 4. Windows Client Side using https://www.eve-ng.net/index.php/download/
 5. Also, you need to download UltraVNC Viewer to use GUI mode.
+   
 Steps:
-1. Enter the provided credentials and sign in. 
- 
+
+1. Enter the provided credentials and sign in.
+   
 2. After login, you will be required to first create a folder for your lab. 
  
 Note: Make one case study for one chapter. Labs can be more than one in each lab however the basics of case study should be same. 
@@ -31,8 +33,6 @@ Note: Leave the remaining options as default.
  
 7. Click on the lab to open. 
  
-
- 
 8. Use the left side given menu to start configure the topology. 
  
 9. Add an object option allow you to create Nodes, Network, Pictures, Shapes, and Text. Click on Node to add switch, router, server, PC, etc. 
@@ -45,36 +45,36 @@ Note: Leave the remaining options as default.
  
 13. Similarly, you can add a switch. 
  
-14. You will see the following nodes. 
+14. You will see the following nodes.
+    
 15. Also, you can change the configuration of nodes by using right click on that node and edit it. 
  
 16. To connect router with switch, take a cursor to router and drag the connection to switch.
  
 17. Enter the connection name and click on Save. 
-
  
 18. You will see the blue connection between the nodes. 
  
 Note: Similarly, you can connect and configure multiple nodes that are required for your topology. 
-19. Now, click on More actions from left side given menu. 
+
+19. Now, click on More actions from left side given menu.
+    
 20. Click on Start all nodes.
  
 21. You will see the nodes in blue after they will become active. 
  
-22. To start configuration on each node, go to the node and click on it. 
+22. To start configuration on each node, go to the node and click on it.
+    
 23. Click on Open SSH, Telnet, or Rlogin client.
  
-Note: You should enable Telnet or Rlogin client settings on your laptop. Otherwise, CLI will not appear. Should go to control panel to enable the settings. 
+Note: You should enable Telnet or Rlogin client settings on your laptop. Otherwise, CLI will not appear. Should go to control panel to enable the settings.
+
 24. After that, you will see the CLI for that particular node. 
  
-
 Steps to deploy more attractive topology. 
-25. Use the following options to add text, box, back ground colors, borders as well. 
+1. Use the following options to add text, box, back ground colors, borders as well. 
  
- 
-26. Similarly, you can add shape using the Custom shapes.
- 
- 
+2. Similarly, you can add shape using the Custom shapes.
  
 Similarly, you can find multiple topologies to develop the visualization according to your case study. 
  
